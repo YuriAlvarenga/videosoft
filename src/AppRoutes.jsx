@@ -11,7 +11,7 @@ export default function AppRoutes () {
         <Router>
             <Routes>
                 <Route exact path='/' element={<Totem/>}/>
-                <Route exact path='/virtual-totem' element={<SitefForm/>}/>
+                <Route exact path='/sitef' element={<SitefForm/>}/>
                 <Route exact path='/handbook' element={<Handbook/>}/>
                 <Route exact path='/videos-tutorials' element={<VideoTutorials/>}/>
                 <Route exact path='/access-controls' element={<AccessControls/>}/>

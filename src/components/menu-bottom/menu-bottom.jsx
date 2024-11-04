@@ -24,7 +24,7 @@ export default function MenuBottomNavigation() {
 
     const itemsMenu = [
         { id: 1, label: "Totem", value: '/', icon: <PersonalVideoIcon /> },
-        { id: 2, label: "Sitef", value:'/virtual-totem', icon: <AddCardIcon /> },
+        { id: 2, label: "Sitef", value:'/sitef', icon: <AddCardIcon /> },
         { id: 3, label: "Manual", value:'/handbook', icon: <MenuBookIcon /> },
         { id: 4, label: "Treinamentos", value:'/videos-tutorials', icon: <SchoolIcon /> },
         { id: 4, label: "Acessos", value:'/access-controls', icon: <LockOpenIcon /> },
